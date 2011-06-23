@@ -1,0 +1,13 @@
+# Ignorar ficheiros temporários do Windows
+Thumbs.db
+#Ignorar pacotes de ficheiros
+*.zip
+*.rar
+# Ignorar ficheiros temporários do Visual Studio
+*.suo
+*.user
+*.userprefs
+[Oo]bj/
+[Bd]in/
+_ReSharper/
+_ReSharper.MvcCms
